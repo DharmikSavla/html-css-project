@@ -1,2 +1,2 @@
-# html-css-project
+Pure HTML and CSS static Website
  
